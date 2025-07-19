@@ -9,7 +9,7 @@
         "locale_author_email": "biopha@hotmail.com",
         "locale_source_url": "https://github.com/biopha/feedbro-locale-pt_BR"
     },
-{   "addfeed_url_body": "URL do feed",
+	"addfeed_url_body": "URL do feed",
     "addfeed_load_body": "Carregar",
     "addfeed_title_body": "Título",
     "addfeed_latestentry_body": "Última entrada publicada",
