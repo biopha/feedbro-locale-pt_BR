@@ -221,7 +221,7 @@
     "options_notification_timeout_15s_body": "15 segundos",
     "options_notification_timeout_20s_body": "20 segundos",
     "options_notification_timeout_30s_body": "30 segundos",
-    "options_notification_timeout_60s_body": "60 segundos"
+    "options_notification_timeout_60s_body": "60 segundos",
     "options_faviconprovider_body": "Provedor de favicon",
     "options_tagshortcuts_body": "Atalhos de tags",
     "options_tagshortcuts_title": "Ao pressionar a combinação de teclas, você pode adicionar rapidamente a tag especificada ao artigo do feed ativo (com borda azul)",
