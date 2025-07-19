@@ -379,7 +379,7 @@
     "ruleview_error_ifttt_emptyurl": "A URL do canal IFTTT Maker não pode estar vazia!",
     "ruleview_error_ifttt_invalidurl": "URL inválida do canal IFTTT Maker! A URL deve começar com https://maker.ifttt.com",
     "ruleview_error_noaction": "A regra deve ter pelo menos uma ação!",
-    "ruleview_error_emptyplayurl": "Erro: 'Reproduzir URL de som' requer uma URL válida como parâmetro!"
+    "ruleview_error_emptyplayurl": "Erro: 'Reproduzir URL de som' requer uma URL válida como parâmetro!",
     "savefeed_error_url": "Você deve inserir uma URL válida para o feed!",
     "savefeed_error_title": "Você deve inserir um título para o feed. Insira manualmente ou pressione o botão 'Carregar' para obter o título real do feed.",
     "savefeed_error_duplicate_infolder": "Você já assinou esse feed na pasta '{1}' com o título '{2}'",
